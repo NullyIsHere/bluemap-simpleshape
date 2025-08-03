@@ -12,7 +12,7 @@ Copy your locations one by one, then export the result as a properly formatted m
 - ✅ Clipboard monitoring
 - 🧠 Parses `/execute ... tp @s x y z` commands (from F3+C)
 - 🔁 Collects points for your shape
-- 🛑 Stops when you copy `quit`
+- 🛑 Stops when you copy `quit` (You can open chat, type quit and do Ctrl+A and Ctrl+C
 - 🏷️ Lets you name your shape
 - 🟩 Outputs a BlueMap-compatible shape marker in HOCON format
 
